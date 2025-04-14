@@ -44,5 +44,5 @@ The design is clean, responsive, and user-friendly, making it easy for customers
 2. Navigate to the project directory:
 
 ```bash
-cd FlightTicket-Sales-2017
+cd HTML-CSS-JS-FlightBooking-2017
 ```

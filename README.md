@@ -43,6 +43,6 @@ The design is clean, responsive, and user-friendly, making it easy for customers
 
 2. Navigate to the project directory:
 
-   ```bash
+```bash
 cd FlightTicket-Sales-2017
 ```

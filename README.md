@@ -1,5 +1,4 @@
-# Flight Ticket Sales 2017
-
+# HTML CSS JS FlightBooking 2017
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
